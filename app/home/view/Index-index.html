@@ -1,0 +1,30 @@
+<div style="height:auto;width:600px;margin-bottom:10px;border:1px solid red;">
+<b>变量：</b><br>
+<!--{$aaa}-->
+<hr/>
+<b>loop：</b><br/>
+<!--{foreach $arr $k $v}-->
+<!--{$v}-->
+<!--{/foreach}-->
+
+<hr>
+<b>eval函数：</b><br>
+<!--{eval  time();}-->
+<hr/>
+<b>for：</b><br>
+<!--{for $a=0;$a<=10;$a++}-->
+<!--{$a}-->
+<!--{/for}-->
+<hr/>
+<b>if：</b><br>
+<!--{if $test == 2}-->
+no
+<!--{elseif $test == 1}-->
+yes
+<!--{/if}-->
+<hr/>
+<b>include包含模板</b>  <br>
+
+</div>
+
+<!--{include file="test"}-->

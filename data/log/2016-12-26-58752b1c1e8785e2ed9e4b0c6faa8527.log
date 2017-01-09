@@ -1,0 +1,5 @@
+2016-12-26 17:44:05 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: aaa
+2016-12-26 17:44:08 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: aaa
+2016-12-26 17:54:46 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: db_driver
+2016-12-26 17:58:27 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: db_driver
+2016-12-26 18:01:11 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Db\Mysql::$_writeLink

@@ -1,0 +1,11 @@
+2016-10-10 09:55:20 | ::1 | /phpk8/index.php |[错误代码：2]file_get_contents(app/home/view/-test.html): failed to open stream: No such file or directory
+2016-10-10 09:56:14 | ::1 | /phpk8/index.php |[错误代码：2]file_get_contents(app/home/view/test.html): failed to open stream: No such file or directory
+2016-10-10 10:11:41 | ::1 | /phpk8/index.php |[错误代码：2]preg_replace_callback(): Requires argument 2, '$this-&gt;_getTemplate('$1');}', to be a valid callback
+2016-10-10 10:12:49 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Tpl\Normal::$_getTemplate
+2016-10-10 10:14:34 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Tpl\Normal::$_getTemplate
+2016-10-10 10:15:46 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Tpl\Normal::$_getTemplate
+2016-10-10 10:15:48 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Tpl\Normal::$_getTemplate
+2016-10-10 10:15:58 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Tpl\Normal::$_getTemplate
+2016-10-10 11:05:31 | ::1 | /phpk8/index.php |[错误代码：2]file_get_contents(app/home/view/$test.html): failed to open stream: No such file or directory
+2016-10-10 11:05:41 | ::1 | /phpk8/index.php |[错误代码：2]file_get_contents(app/home/view/{$test}.html): failed to open stream: No such file or directory
+2016-10-10 11:05:56 | ::1 | /phpk8/index.php |[错误代码：2]file_get_contents(app/home/view/&lt;?php echo $test;?&gt;.html): failed to open stream: No such file or directory

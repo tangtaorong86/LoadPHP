@@ -1,0 +1,17 @@
+2016-12-27 10:51:26 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Db\Mysql::$_writeLink
+2016-12-27 10:52:56 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Db\Mysql::$_writeLink
+2016-12-27 10:52:58 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Db\Mysql::$_writeLink
+2016-12-27 11:13:19 | ::1 | /phpk8/index.php |[错误代码：8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+2016-12-27 11:15:25 | ::1 | /phpk8/index.php |[错误代码：8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+2016-12-27 11:50:29 | ::1 | /phpk8/index.php |[错误代码：8]Undefined index: DB_HOST
+2016-12-27 12:01:59 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: Factory
+2016-12-27 12:11:36 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: _readLink
+2016-12-27 12:14:11 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: Driver\Db\Mysqli::$_getReadLink
+2016-12-27 12:54:13 | ::1 | /phpk8/index.php |[错误代码：8192]mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+2016-12-27 12:59:08 | ::1 | /phpk8/index.php |[错误代码：2]mysqli::mysqli(): (HY000/1049): Unknown database 'php2'
+2016-12-27 13:01:00 | ::1 | /phpk8/index.php |[错误代码：2]mysql_get_server_info() expects parameter 1 to be resource, object given
+2016-12-27 13:09:22 | ::1 | /phpk8/index.php |[错误代码：2]mysqli::query() expects parameter 2 to be long, string given
+2016-12-27 13:09:37 | ::1 | /phpk8/index.php |[错误代码：2]mysqli::query() expects parameter 2 to be long, string given
+2016-12-27 14:01:21 | ::1 | /phpk8/index.php |[错误代码：2]mysql_close() expects parameter 1 to be resource, object given
+2016-12-27 17:48:43 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Driver\Db\Mysqli::getOne(), called in /Users/tangtao/Sites/phpk8/frame/Core/Model.class.php on line 89 and defined
+2016-12-27 18:34:39 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Driver\Db\Mysqli::getOne(), called in /Users/tangtao/Sites/phpk8/frame/Core/Model.class.php on line 89 and defined

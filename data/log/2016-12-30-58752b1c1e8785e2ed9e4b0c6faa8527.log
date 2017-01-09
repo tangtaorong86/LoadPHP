@@ -1,0 +1,28 @@
+2016-12-30 13:46:16 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: sth
+2016-12-30 13:47:15 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: sth
+2016-12-30 13:48:16 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: sth
+2016-12-30 13:50:59 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: sth
+2016-12-30 13:51:34 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: sth
+2016-12-30 13:51:37 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: sth
+2016-12-30 14:34:23 | ::1 | /phpk8/index.php |[错误代码：2048]Accessing static property app\home\model\ContentModel::$db as non static
+2016-12-30 14:34:33 | ::1 | /phpk8/index.php |[错误代码：2048]Accessing static property app\home\model\ContentModel::$db as non static
+2016-12-30 14:34:44 | ::1 | /phpk8/index.php |[错误代码：2048]Accessing static property app\home\model\ContentModel::$db as non static
+2016-12-30 14:35:01 | ::1 | /phpk8/index.php |[错误代码：2048]Accessing static property app\home\model\ContentModel::$db as non static
+2016-12-30 14:44:29 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: condition
+2016-12-30 15:21:31 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Core\Model::__construct(), called in /Users/tangtao/Sites/phpk8/frame/Core/Factory.class.php on line 30 and defined
+2016-12-30 15:21:35 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Core\Model::__construct(), called in /Users/tangtao/Sites/phpk8/frame/Core/Factory.class.php on line 30 and defined
+2016-12-30 15:21:53 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: name
+2016-12-30 15:31:29 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Core\Model::__construct(), called in /Users/tangtao/Sites/phpk8/frame/Core/Factory.class.php on line 30 and defined
+2016-12-30 15:33:46 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: app\home\model\ContentModel::$name
+2016-12-30 15:44:10 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: res
+2016-12-30 15:50:18 | ::1 | /phpk8/index.php |[错误代码：4096]Object of class app\home\model\ContentModel could not be converted to string
+2016-12-30 16:09:28 | ::1 | /phpk8/index.php |[错误代码：8]Undefined property: app\home\model\ContentModel::$truename
+2016-12-30 16:09:37 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: truename
+2016-12-30 16:10:49 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: truename
+2016-12-30 16:10:51 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: truename
+2016-12-30 16:11:03 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: trueName
+2016-12-30 16:11:08 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: truename
+2016-12-30 16:11:31 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: trueName
+2016-12-30 16:25:17 | ::1 | /phpk8/index.php |[错误代码：8]Undefined index: DB_PREFIX
+2016-12-30 16:26:05 | ::1 | /phpk8/index.php |[错误代码：8]Undefined index: DB_PREFIX
+2016-12-30 16:55:50 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: where

@@ -1,0 +1,7 @@
+2016-10-08 12:09:51 | ::1 | /phpk8/index.php |[错误代码：2]register_shutdown_function(): Invalid shutdown callback 'Think\Think::fatalError' passed
+2016-10-08 12:12:46 | ::1 | /phpk8/index.php |[错误代码：2]register_shutdown_function(): Invalid shutdown callback 'Think\Think::fatalError' passed
+2016-10-08 12:13:19 | ::1 | /phpk8/index.php |[错误代码：2]register_shutdown_function(): Invalid shutdown callback 'Think\Think::fatalError' passed
+2016-10-08 12:13:36 | ::1 | /phpk8/index.php |[错误代码：2]register_shutdown_function(): Invalid shutdown callback 'Think\Think::fatalError' passed
+2016-10-08 12:13:53 | ::1 | /phpk8/index.php |[错误代码：2]register_shutdown_function(): Invalid shutdown callback 'Think\Think::fatalError' passed
+2016-10-08 12:14:09 | ::1 | /phpk8/index.php |[错误代码：2]register_shutdown_function(): Invalid shutdown callback 'Think\Think::fatalError' passed
+2016-10-08 12:14:26 | ::1 | /phpk8/index.php |[错误代码：2]register_shutdown_function(): Invalid shutdown callback 'Think\Think::fatalError' passed

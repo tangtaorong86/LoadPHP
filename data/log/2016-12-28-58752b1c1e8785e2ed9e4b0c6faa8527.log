@@ -1,0 +1,26 @@
+2016-12-28 13:49:31 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Driver\Db\Mysqli::getOne(), called in /Users/tangtao/Sites/phpk8/frame/Core/Model.class.php on line 89 and defined
+2016-12-28 13:52:01 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Driver\Db\Mysqli::getOne(), called in /Users/tangtao/Sites/phpk8/frame/Core/Model.class.php on line 89 and defined
+2016-12-28 14:01:31 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Driver\Db\Mysqli::getOne(), called in /Users/tangtao/Sites/phpk8/frame/Core/Model.class.php on line 89 and defined
+2016-12-28 14:17:39 | ::1 | /phpk8/index.php |[错误代码：2]The use statement with non-compound name 'PDO' has no effect
+2016-12-28 14:18:33 | ::1 | /phpk8/index.php |[错误代码：2]The use statement with non-compound name 'PDO' has no effect
+2016-12-28 14:18:36 | ::1 | /phpk8/index.php |[错误代码：2]The use statement with non-compound name 'PDO' has no effect
+2016-12-28 14:22:29 | ::1 | /phpk8/index.php |[错误代码：2]mysqli::query(): invalid object or resource mysqli
+
+2016-12-28 14:27:13 | ::1 | /phpk8/index.php |[错误代码：2]mysqli_close() expects parameter 1 to be mysqli, object given
+2016-12-28 14:47:09 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: data
+2016-12-28 14:52:11 | ::1 | /phpk8/index.php |[错误代码：8]Undefined index: :did
+2016-12-28 14:52:31 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: data
+2016-12-28 14:54:59 | ::1 | /phpk8/index.php |[错误代码：2]PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2016-12-28 14:55:58 | ::1 | /phpk8/index.php |[错误代码：2]PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2016-12-28 15:15:14 | ::1 | /phpk8/index.php |[错误代码：2]PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2016-12-28 15:15:29 | ::1 | /phpk8/index.php |[错误代码：2]PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2016-12-28 15:50:18 | ::1 | /phpk8/index.php |[错误代码：8]Array to string conversion
+2016-12-28 15:51:15 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 3 for Driver\Db\Mysqli::_prepareSql(), called in /Users/tangtao/Sites/phpk8/frame/Driver/Db/Mysqli.class.php on line 48 and defined
+2016-12-28 15:53:03 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 3 for Driver\Db\Mysqli::_prepareSql(), called in /Users/tangtao/Sites/phpk8/frame/Driver/Db/Mysqli.class.php on line 48 and defined
+2016-12-28 15:55:01 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 3 for Driver\Db\Mysqli::_prepareSql(), called in /Users/tangtao/Sites/phpk8/frame/Driver/Db/Mysqli.class.php on line 48 and defined
+2016-12-28 15:55:28 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 3 for Driver\Db\Mysqli::_prepareSql(), called in /Users/tangtao/Sites/phpk8/frame/Driver/Db/Mysqli.class.php on line 48 and defined
+2016-12-28 15:55:47 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 3 for Driver\Db\Mysqli::_prepareSql(), called in /Users/tangtao/Sites/phpk8/frame/Driver/Db/Mysqli.class.php on line 48 and defined
+2016-12-28 15:56:30 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 3 for Driver\Db\Mysqli::_prepareSql(), called in /Users/tangtao/Sites/phpk8/frame/Driver/Db/Mysqli.class.php on line 48 and defined
+2016-12-28 15:56:38 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 3 for Driver\Db\Mysqli::_prepareSql(), called in /Users/tangtao/Sites/phpk8/frame/Driver/Db/Mysqli.class.php on line 48 and defined
+2016-12-28 15:59:05 | ::1 | /phpk8/index.php |[错误代码：2]Missing argument 1 for Driver\Db\Mysqli::_sql(), called in /Users/tangtao/Sites/phpk8/frame/Driver/Db/Mysqli.class.php on line 68 and defined
+2016-12-28 16:59:53 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: sth

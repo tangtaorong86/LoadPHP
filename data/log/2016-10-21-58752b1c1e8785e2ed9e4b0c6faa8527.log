@@ -1,0 +1,5 @@
+2016-10-21 15:50:40 | ::1 | /phpk8/index.php |[错误代码：4096]Object of class Core\Model could not be converted to string
+2016-10-21 15:51:09 | ::1 | /phpk8/index.php |[错误代码：4096]Object of class Core\Model could not be converted to string
+2016-10-21 15:51:33 | ::1 | /phpk8/index.php |[错误代码：4096]Object of class Core\Model could not be converted to string
+2016-10-21 17:37:37 | ::1 | /phpk8/index.php |[错误代码：8]Undefined variable: config
+2016-10-21 17:37:51 | ::1 | /phpk8/index.php |[错误代码：4096]Object of class app\home\model\ContentModel could not be converted to string

@@ -1,0 +1,91 @@
+2017-01-06 10:17:51 | ::1 | /phpk8/index.php |[代码错误：84行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第84行错误提示：Call to undefined method app\home\controller\IndexController::sortUrlArray()
+2017-01-06 10:22:41 | ::1 | /phpk8/index.php |[代码错误：112行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第112行错误提示：Undefined class constant 'QuestionMarkKey'
+2017-01-06 10:23:22 | ::1 | /phpk8/index.php |[代码错误：112行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第112行错误提示：Undefined class constant 'QuestionMarkKey'
+2017-01-06 10:23:57 | ::1 | /phpk8/index.php |[代码错误：119行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第119行错误提示：Undefined class constant 'Anchor'
+2017-01-06 10:34:28 | ::1 | /phpk8/index.php |[代码错误：157行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第157行错误提示：Access to undeclared static property: app\home\controller\IndexController::$urlRoute
+2017-01-06 10:35:28 | ::1 | /phpk8/index.php |[代码错误：171行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第171行错误提示：Class 'app\home\controller\IWeb' not found
+2017-01-06 10:37:52 | ::1 | /phpk8/index.php |[代码错误：171行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第171行错误提示：Class 'app\home\controller\IWeb' not found
+2017-01-06 10:45:51 | ::1 | /phpk8/index.php |[代码错误：171行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第171行错误提示：Class 'app\home\controller\IWeb' not found
+2017-01-06 10:46:42 | ::1 | /phpk8/index.php |[代码错误：171行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第171行错误提示：Class 'app\home\controller\IWeb' not found
+2017-01-06 10:51:41 | ::1 | /phpk8/index.php |[代码错误：171行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第171行错误提示：Class 'app\home\controller\IWeb' not found
+2017-01-06 11:20:04 | ::1 | /phpk8/index.php |[代码错误：171行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第171行错误提示：Class 'app\home\controller\IWeb' not found
+2017-01-06 11:20:08 | ::1 | /phpk8/index.php |[错误代码：404]控制器Ddd不存在
+2017-01-06 11:20:19 | ::1 | /phpk8/index.php |[错误代码：404]控制器Ddd不存在
+2017-01-06 11:20:28 | ::1 | /phpk8/index.php |[错误代码：404]控制器Ddd不存在
+2017-01-06 11:21:41 | ::1 | /phpk8/index.php |[错误代码：404]控制器Ddd不存在
+2017-01-06 11:21:43 | ::1 | /phpk8/index.php |[错误代码：404]控制器Ddd不存在
+2017-01-06 11:21:48 | ::1 | /phpk8/index.php |[代码错误：171行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第171行错误提示：Class 'app\home\controller\IWeb' not found
+2017-01-06 11:21:50 | ::1 | /phpk8/index.php |[代码错误：171行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第171行错误提示：Class 'app\home\controller\IWeb' not found
+2017-01-06 11:23:06 | ::1 | /phpk8/index.php |[错误代码：警告(E_WARNING)]array_merge(): Argument #2 is not an array
+2017-01-06 11:39:54 | ::1 | /phpk8/index.php |[代码错误：28行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第28行错误提示：Call to undefined method app\home\controller\IndexController::decodeRouteUrl()
+2017-01-06 12:32:01 | ::1 | /phpk8/index.php |[错误代码：警告(E_WARNING)]Missing argument 2 for Core\Factory::getDriver(), called in /Users/tangtao/Sites/phpk8/frame/Core/Route.class.php on line 49 and defined
+2017-01-06 12:32:51 | ::1 | /phpk8/index.php |[错误代码：404]ServerVars驱动不存在！
+2017-01-06 12:34:37 | ::1 | /phpk8/index.php |[代码错误：7行]文件：/Users/tangtao/Sites/phpk8/frame/Driver/ServerVars/Apache.class.php第7行错误提示：Interface 'Driver\ServerVars' not found
+2017-01-06 12:40:18 | ::1 | /phpk8/index.php |[代码错误：65行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第65行错误提示：Class 'Core\IReq' not found
+2017-01-06 12:55:41 | ::1 | /phpk8/index.php |[代码错误：65行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第65行错误提示：Class 'Core\IReq' not found
+2017-01-06 12:57:22 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 12:57:40 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 12:59:56 | ::1 | /phpk8/index.php/m/index |[代码错误：217行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第217行错误提示：Access to undeclared static property: Core\Route::$urlRoute
+2017-01-06 13:03:08 | ::1 | /phpk8/index.php/m/index |[错误代码：提示(E_NOTICE)]Undefined variable: app_config
+2017-01-06 13:03:19 | ::1 | /phpk8/index.php/m/index |[错误代码：提示(E_NOTICE)]Undefined variable: app_config
+2017-01-06 13:03:41 | ::1 | /phpk8/index.php/m/index |[错误代码：提示(E_NOTICE)]Undefined index: SERVER_TYPE
+2017-01-06 13:04:53 | ::1 | /phpk8/index.php/m/index |[错误代码：提示(E_NOTICE)]Undefined index: SERVER_TYPE
+2017-01-06 13:07:14 | ::1 | /phpk8/index.php/m/index |[代码错误：66行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Core.class.php第66行错误提示：Cannot use object of type Core\Route as array
+2017-01-06 13:15:32 | ::1 | /phpk8/index.php/m/index |[代码错误：225行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第225行错误提示：Access to undeclared static property: Core\Route::$urlRoute
+2017-01-06 13:23:07 | ::1 | /phpk8/index.php/m/index |[代码错误：233行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第233行错误提示：syntax error, unexpected ';'
+2017-01-06 13:23:18 | ::1 | /phpk8/index.php/m/index |[错误代码：提示(E_NOTICE)]Undefined variable: route_config
+2017-01-06 13:29:08 | ::1 | /phpk8/index.php/m/index |[代码错误：252行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第252行错误提示：Access to undeclared static property: Core\Route::$urlRoute
+2017-01-06 13:42:04 | ::1 | /phpk8/index.php/article.html |[代码错误：211行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第211行错误提示：Call to undefined method Core\Route::pathinfoToArray()
+2017-01-06 13:42:26 | ::1 | /phpk8/index.php/article.html |[代码错误：267行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第267行错误提示：Undefined class constant 'UrlCtrlName'
+2017-01-06 13:45:01 | ::1 | /phpk8/index.php/article.html |[代码错误：324行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第324行错误提示：Undefined class constant 'UrlCtrlName'
+2017-01-06 13:45:04 | ::1 | /phpk8/index.php/article.html |[代码错误：324行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第324行错误提示：Undefined class constant 'UrlCtrlName'
+2017-01-06 13:52:52 | ::1 | /phpk8/index.php/article-243.html |[代码错误：10行]文件：/Users/tangtao/Sites/phpk8/config/route.php第10行错误提示：syntax error, unexpected ';', expecting ')'
+2017-01-06 13:54:30 | ::1 | /phpk8/index.php/index/index |[代码错误：108行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第108行错误提示：Call to undefined method Core\Route::pathinfoToArray()
+2017-01-06 14:20:43 | ::1 | /phpk8/index.php/index/index |[代码错误：14行]文件：/Users/tangtao/Sites/phpk8/config/route.php第14行错误提示：syntax error, unexpected ''article.html'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+2017-01-06 14:28:20 | ::1 | /phpk8/index.php/index/index |[代码错误：208行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第208行错误提示：Call to undefined method Core\Route::decodePathinUrl()
+2017-01-06 14:43:07 | ::1 | /phpk8/index.php/index/index/ |[错误代码：提示(E_NOTICE)]Undefined variable: matchValue
+2017-01-06 15:03:12 | ::1 | /phpk8/index.php/home/index/read/id/100 |[错误代码：提示(E_NOTICE)]Undefined variable: m
+2017-01-06 15:14:42 | ::1 | /phpk8/index.php/home/index/read/id/100 |[错误代码：提示(E_NOTICE)]Undefined variable: m
+2017-01-06 15:15:32 | ::1 | /phpk8/index.php/home/index/read/id/100 |[错误代码：提示(E_NOTICE)]Undefined variable: m
+2017-01-06 15:15:38 | ::1 | /phpk8/index.php/home/index/read/id/100 |[错误代码：提示(E_NOTICE)]Undefined variable: m
+2017-01-06 15:19:29 | ::1 | /phpk8/index.php/home/index/read/id/100 |[错误代码：404]分组不存在
+2017-01-06 15:24:21 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:24:24 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:24:26 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:24:27 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:24:52 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:24:54 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:27:09 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:27:17 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:27:57 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: urlArray
+2017-01-06 15:32:02 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:32:23 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:32:25 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:32:41 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:32:59 | ::1 | /phpk8/index.php |[错误代码：404]分组不存在
+2017-01-06 15:34:04 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Array to string conversion
+2017-01-06 15:38:31 | ::1 | /phpk8/index.php |[错误代码：警告(E_WARNING)]Missing argument 1 for Core\Route::_reSetGet(), called in /Users/tangtao/Sites/phpk8/frame/Core/Route.class.php on line 75 and defined
+2017-01-06 15:40:42 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: app_config
+2017-01-06 15:40:44 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: app_config
+2017-01-06 15:41:38 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined index: m
+2017-01-06 15:42:07 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: m_name
+2017-01-06 15:42:28 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined index: m
+2017-01-06 15:45:15 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: app_config
+2017-01-06 15:45:34 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: res
+2017-01-06 15:46:45 | ::1 | /phpk8/index.php |[SQL错误：1146]SQLState:42S02@@ErrorInfo:Table 'test_a.pre_test_res' doesn't exist@@SQL:select * from pre_test_res
+2017-01-06 16:16:04 | ::1 | /phpk8/index.php |[代码错误：151行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Core.class.php第151行错误提示：Access to undeclared static property: Core\Core::$app_config
+2017-01-06 16:16:24 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: app_config
+2017-01-06 16:16:30 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: config
+2017-01-06 17:03:26 | ::1 | /phpk8/index.php |[代码错误：381行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第381行错误提示：Call to undefined method Core\Route::pathinfoToArray()
+2017-01-06 17:22:26 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined index: URL_TYPE
+2017-01-06 17:29:31 | ::1 | /phpk8/index.php |[代码错误：86行]文件：/Users/tangtao/Sites/phpk8/frame/Core/Route.class.php第86行错误提示：syntax error, unexpected '{'
+2017-01-06 17:30:07 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: arr
+2017-01-06 17:37:28 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Array to string conversion
+2017-01-06 17:39:54 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Array to string conversion
+2017-01-06 17:44:07 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Array to string conversion
+2017-01-06 17:46:09 | ::1 | /phpk8/index.php |[错误代码：警告(E_WARNING)]array_merge(): Argument #1 is not an array
+2017-01-06 17:46:23 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Array to string conversion
+2017-01-06 17:51:29 | ::1 | /phpk8/index.php |[代码错误：66行]文件：/Users/tangtao/Sites/phpk8/frame/Function/core.func.php第66行错误提示：Call to undefined function Core\Route()
+2017-01-06 17:56:13 | ::1 | /phpk8/index.php |[错误代码：提示(E_NOTICE)]Undefined variable: uri
+2017-01-06 17:59:23 | ::1 | /phpk8/index.php |[代码错误：18行]文件：/Users/tangtao/Sites/phpk8/app/home/controller/IndexController.class.php第18行错误提示：syntax error, unexpected '$if' (T_VARIABLE), expecting ',' or ';'
+2017-01-06 18:01:11 | ::1 | /phpk8/index.php/index/lists/p/1 |[错误代码：404]分组index不存在
