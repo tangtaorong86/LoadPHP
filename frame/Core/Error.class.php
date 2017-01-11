@@ -24,9 +24,9 @@ class Error extends \Exception{
         parent::__construct($message, $code);    
         self::$config = Factory::getConfig("app");
         if(self::$config['ERROR_HANDLE']){
-        		// 定义PHP程序执行完成后执行的函数
-	    		register_shutdown_function('Core\Error::error_fatal');
-	        	// 设置一个用户定义的错误处理函数
+        	// 定义PHP程序执行完成后执行的函数
+	    	register_shutdown_function('Core\Error::error_fatal');
+	        // 设置一个用户定义的错误处理函数
 		    set_error_handler('Core\Error::error_handle');
 	    }
 		//自定义异常处理。
