@@ -67,11 +67,11 @@ class View{
 	 */
     function __construct(){
     		
-    		$this->tpl_config = config("tpl");
-    		$this->driver = Factory::getDriver($this->tpl_config['TPL_DRIVER'],"Tpl");
+    	$this->tpl_config = config("tpl");
+    	$this->driver = Factory::getDriver($this->tpl_config['TPL_DRIVER'],"Tpl");
     		
-    		//常量赋值
-    		$this->module_name = MODULE_NAME;
+    	//常量赋值
+    	$this->module_name = MODULE_NAME;
         $this->controller_name = CONTROLLER_NAME;
         $this->action_name = ACTION_NAME;
         

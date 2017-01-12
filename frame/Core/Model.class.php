@@ -392,17 +392,17 @@ class Model{
     		if(empty($table)){
     			//无，再看是否自定义了tableNameDiy
     			$table = $this->tableNameDiy;
-			if(empty($table)){
-				//无，再获取模型名称，拼接上前缀作为数据表名
-				$table = $this->modelName;
-			}
+				if(empty($table)){
+					//无，再获取模型名称，拼接上前缀作为数据表名
+					$table = $this->modelName;
+				}
     		}
 		
 		if(empty($table)){
 			return NULL;
 		}
 		
-    		return $this->config['DB_PREFIX'].$table;
+    	return $this->config['DB_PREFIX'].$table;
     }
 	
 }

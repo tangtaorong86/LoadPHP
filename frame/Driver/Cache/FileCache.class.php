@@ -8,7 +8,7 @@
  */
 namespace Driver\Cache;
 use Driver\CacheInterface;
-class FileCache implements Cache{
+class FileCache implements CacheInterface{
 	
 	private $config = array();//缓存配置
 	private $cachePath = ''; //默认文件缓存存放路径

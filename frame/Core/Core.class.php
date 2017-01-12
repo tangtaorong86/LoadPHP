@@ -166,8 +166,7 @@ class Core{
 	 * 获取当前脚本所在文件夹
 	 * @return 脚本所在文件夹
 	 */
-	public static function getScriptDir()
-	{
+	public static function getScriptDir(){
 		$return = strtr(dirname($_SERVER['SCRIPT_NAME']),"\\","/");
 		return $return == '/' ? '/' : $return.'/';
 	}
